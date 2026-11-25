@@ -1,0 +1,8 @@
+# One Emoji, One Dream Vacation — Mount Fuji entry
+[![make.fun · u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
+[![rank](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/kizuna99/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35-entry/rank.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
+[![reward](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/kizuna99/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35-entry/reward.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
+
+A tiny program that writes exactly one emoji — 🗻, Mount Fuji — to `/output/entry.txt` and nothing else. It was picked from a 16-candidate tournament scored against the judge's five criteria in order: a mountain plainly names a dream vacation, the snow-capped cone is a postcard a stranger reads at a glance, and unlike the field's crowded desert-island picks it names one specific dream — Fuji itself — with a fresh angle that still reads instantly at any size. The output is byte-exact across runs: 1 character, 4 UTF-8 bytes, no trailing newline.
+
+Run it with `python3 main.py` (Python 3.13, no dependencies, no network).
